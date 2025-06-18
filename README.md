@@ -20,3 +20,5 @@ and scalable solution to enhance existing surveillance mechanisms.
 in smart_survilance.py add email and app password 
 
 put admin.py in pages folder(create one)
+
+dataset link: https://www.kaggle.com/datasets/mateohervas/dcsass-dataset
